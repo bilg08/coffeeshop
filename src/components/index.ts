@@ -4,3 +4,4 @@ export * from './Badge';
 export * from './PickUpStore';
 export * from './ProductsHorizantalLists';
 export * from './Product';
+export * from './ProductsTabView';

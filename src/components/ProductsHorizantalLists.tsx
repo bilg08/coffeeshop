@@ -2,7 +2,6 @@ import React from 'react';
 import {FlatList, Text, View} from 'react-native';
 import {ProductType} from '../typing';
 import {Product} from './Product';
-
 type HorizantalProductsListsProps = {
   label: string;
   products: ProductType[];
